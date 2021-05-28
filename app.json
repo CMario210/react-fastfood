@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A react-native made restaurants share stuff like app.",
+    "githubUrl": "https://github.com/CMario210/react-fastfood"
   }
 }
