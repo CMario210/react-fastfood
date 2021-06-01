@@ -1,2 +1,2 @@
 # react-fastfood
-A react-native made restaurants share stuff like app
+A react-native made food ecommerce app.
